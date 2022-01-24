@@ -14,7 +14,8 @@ running docker image for mongodb
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/57039610/150753549-2e572d1b-c192-4d13-9715-704f83bd023e.png">
 
 <br>
-<img width="934" alt="image" src="https://user-images.githubusercontent.com/57039610/150760506-3af44228-4c64-46d7-8fb9-f41d1c449bb8.png">
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/57039610/150760677-b8d9769a-8777-43b5-804f-226780b90d24.png">
+
 
 
 
