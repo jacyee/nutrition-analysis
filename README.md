@@ -16,6 +16,13 @@ running docker image for mongodb
 <br>
 <img width="953" alt="image" src="https://user-images.githubusercontent.com/57039610/150760677-b8d9769a-8777-43b5-804f-226780b90d24.png">
 
+<br>
+capture nutrition data as document
+<br>
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/57039610/150798317-d94314d1-06d7-418c-94cb-21db9d5a49ef.png">
+
+
+
 
 
 
