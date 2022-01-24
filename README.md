@@ -21,6 +21,8 @@ capture nutrition data as document
 <br>
 <img width="953" alt="image" src="https://user-images.githubusercontent.com/57039610/150798317-d94314d1-06d7-418c-94cb-21db9d5a49ef.png">
 
+<br>
+<img width="456" alt="image" src="https://user-images.githubusercontent.com/57039610/150837612-10cd3a22-3dd8-4c52-b606-9c3c81469471.png">
 
 
 
