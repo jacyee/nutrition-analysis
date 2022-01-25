@@ -33,10 +33,10 @@ deploy mongo container /mongodata host volume to the /data/db default container 
 <img width="669" alt="image" src="https://user-images.githubusercontent.com/57039610/150933470-788af34b-26c8-4266-8a7c-d02349f30da8.png">
 <img width="738" alt="image" src="https://user-images.githubusercontent.com/57039610/150946555-edde5398-6ff2-458f-9fd8-d516a82fb2e1.png">
 <br>
-connect to mongo atlas
-<img width="932" alt="image" src="https://user-images.githubusercontent.com/57039610/151011312-0572d3c5-f163-4d15-9d67-da9ef7a8f0ac.png">
+connect to mongo atlas, cluster
+<img width="893" alt="image" src="https://user-images.githubusercontent.com/57039610/151020551-36ac39ad-6d26-4a85-acd9-b4f983997090.png">
 <br>
-get connection string
+get connection string to connect deployment
 <img width="578" alt="image" src="https://user-images.githubusercontent.com/57039610/151011563-99d5ba30-c977-4424-ba52-dab3c8edf103.png">
 
 
