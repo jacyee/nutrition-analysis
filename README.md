@@ -27,7 +27,9 @@ Creating database dumps -v volume mount
 <br>
 create dir for host & container path
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/57039610/150927957-0fe7b210-91e7-4a49-823a-619da90c4147.png">
-<img width="459" alt="image" src="https://user-images.githubusercontent.com/57039610/150928052-505c1e3c-5e4e-4c9a-9058-6c4f1823f7c6.png">
+<br>
+![image](https://user-images.githubusercontent.com/57039610/150928692-4f0b259f-be97-4a2f-820c-0ceff58cdf53.png)
+
 
 
 
