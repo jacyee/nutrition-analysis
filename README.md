@@ -28,7 +28,7 @@ Creating database dumps -v volume mount
 create dir for host & container path
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/57039610/150927957-0fe7b210-91e7-4a49-823a-619da90c4147.png">
 <br>
-/mongodata host volume to the /data/db container volume
+deploy mongo container /mongodata host volume to the /data/db default container volume
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/57039610/150928692-4f0b259f-be97-4a2f-820c-0ceff58cdf53.png">
 <img width="669" alt="image" src="https://user-images.githubusercontent.com/57039610/150933470-788af34b-26c8-4266-8a7c-d02349f30da8.png">
 
